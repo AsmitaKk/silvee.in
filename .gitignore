@@ -1,0 +1,5 @@
+.env
+test123.php
+test_index.php
+uploads/visiting_cards/test*
+**/db_backup.sql
